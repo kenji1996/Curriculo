@@ -1,8 +1,8 @@
 # Kenji Magliocca Tanizaki
 
-:house: São Paulo/SP <br>
-:iphone: (11) 96631-6475 <br>
-:incoming_envelope: ktanizaki1996@gmail.com
+:house:	São Paulo/SP <br>
+:iphone:	(11) 96631-6475 <br>
+:incoming_envelope:	ktanizaki1996@gmail.com
 
 Objetivo : Estagiar na área de tecnologia. <br>
 
@@ -26,7 +26,7 @@ Objetivo : Estagiar na área de tecnologia. <br>
 ### Front-end :
 
 * HTML
-* Markdown
+** Markdown
 * CSS
 * JavaScript
 
