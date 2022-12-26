@@ -6,12 +6,13 @@ Objetivo: Full Stack
 :envelope:  kenji.m.tanizaki@gmail.com
 
 ## Formação
-Sistemas da Informação - Finalização em Julho/2021
+Bacharel em Sistemas da Informação (Universidade Nove de Julho)
 
 ## Conhecimentos
 
 ### Sistemas Operacionais
 * Windows
+* Linux
 
 ### Front-End
 * HTML
@@ -31,6 +32,16 @@ Sistemas da Informação - Finalização em Julho/2021
 * Git
 
 ## Cursos
-* Curso HTML e CSS para iniciantes (Udemy)
+  - Udemy
+    * Java Programming: Complete beginning to advanced
+    * Introdução a banco de dados com MySQL & PHPMyAdmin
+    * Introdução ao PHP orientado a objetos
+    * Introdução à Linguagem HTML
+    
+    
+  - CS50 Summer 2020
+    * Lógica de Programação
+    * Introdução ao C/C++ e Python
+    * Estrutura de Dados
 
 
